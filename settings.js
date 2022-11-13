@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94720841518'] // owner number
-global.ownername = "sl-hacker" // owner name
+global.vcardowner = ['+94 75 739 5188'] // owner number
+global.ownername = "࿓ͥ🇦🇴ͣ͟͞᭕ͫඉරණᴹᴱ:|ᴍʀ.ᴅᴇᴠɪʟ🇦🇴⃝" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,16 +47,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = 'RED DRAGON - {whatsapp bot user}' //ur bot name
+global.owner = ['+94 75 739 5188']
+global.ownertag = '+94 75 739 5188' //your tag number
+global.botname = '🅁🄴🄳 🄳🅁🄰🄶🄾🄽- {whatsapp bot user}' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "RED DRAGON - {whatsapp bot user}" // sticker author
+global.author = "🅁🄴🄳 🄳🅁🄰🄶🄾🄽 - {whatsapp bot user}" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+94720841518'] //ur premium numbers
+global.premium = ['+94 75 739 5188'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
